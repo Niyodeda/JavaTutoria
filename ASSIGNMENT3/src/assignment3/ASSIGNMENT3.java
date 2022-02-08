@@ -4,8 +4,8 @@
 package assignment3;
 
 /**
- *
- * @author Doyin
+ * 
+ * @author Doyin, Niyodeda
  */
 public class ASSIGNMENT3 {
 
